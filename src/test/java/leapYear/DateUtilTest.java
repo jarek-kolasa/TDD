@@ -21,6 +21,13 @@ public class DateUtilTest {
         assertFalse(DateUtil.isLeapYear(1991));
     }
 
+    @Test
+    public void centuryYearsAreNotLeapTest(){
+        assertFalse(DateUtil.isLeapYear(1900));
+    }
 
-
+    @Test
+    public void year2000WasLeapTEst(){
+        assertTrue(DateUtil.isLeapYear(2000));
+    }
 }
