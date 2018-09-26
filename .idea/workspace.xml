@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb0b6840-adb0-4358-87c1-8912991460d0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/leapYear/DateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leapYear/DateUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/leapYear/DateUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leapYear/DateUtilTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,68 +17,103 @@
     <session id="1293591327">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
-          <entry key="xml" value="2" />
+          <entry key="java" value="4" />
+          <entry key="md" value="1" />
+          <entry key="wordcount" value="1" />
+          <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
-          <entry key="XML" value="2" />
+          <entry key="JAVA" value="4" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="422" />
-          <entry key="xml" value="6" />
+          <entry key="java" value="1375" />
+          <entry key="md" value="612" />
+          <entry key="xml" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="422" />
-          <entry key="XML" value="6" />
+          <entry key="JAVA" value="1375" />
+          <entry key="Markdown" value="612" />
+          <entry key="XML" value="8" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leapYear/DateUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/leapYear/DateUtilTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
               <folding>
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#375#376#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#592#593#0" expanded="true" />
+                <element signature="e#645#646#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/wordcount.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="307">
+                <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/leapYear/DateUtilTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/wordcount/WordCounter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+            <state relative-caret-position="238">
+              <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-                <element signature="e#538#539#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#645#646#0" expanded="true" />
+                <element signature="e#145#153#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/wordcount/WordCounterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="65" column="48" selection-start-line="65" selection-start-column="48" selection-end-line="65" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -101,9 +136,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/DateUtil.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/leapYear/DateUtilTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/leapYear/DateUtil.java" />
+        <option value="$PROJECT_DIR$/target/wordcount.md" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/wordcount/WordCounterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wordcount/WordCounter.java" />
       </list>
     </option>
   </component>
@@ -126,6 +164,26 @@
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Since15</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -134,7 +192,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="InstantTDDwithJavaJUnitandMockito" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Instant TDD" type="e9137016:NonAndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,25 +247,51 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="InstantTDDwithJavaJUnitandMockito" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Instant TDD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="leapYear" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InstantTDDwithJavaJUnitandMockito" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Instant TDD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wordcount" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InstantTDDwithJavaJUnitandMockito" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Instant TDD" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537724862893" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537982018842" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="wordcount" />
       <recent name="leapYear" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -215,99 +310,99 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DateUtilTest">
-    <configuration name="DateUtilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.WordCounterTest">
+    <configuration name="WordCounterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Instant TDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leapYear.*" />
+          <option name="PATTERN" value="wordcount.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leapYear" />
-      <option name="MAIN_CLASS_NAME" value="leapYear.DateUtilTest" />
+      <option name="PACKAGE_NAME" value="wordcount" />
+      <option name="MAIN_CLASS_NAME" value="wordcount.WordCounterTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateUtilTest.centuryYearsAreNotLeap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WordCounterTest.inputWithDuplicatesCountsOnlyIndyvidualCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Instant TDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leapYear.*" />
+          <option name="PATTERN" value="wordcount.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leapYear" />
-      <option name="MAIN_CLASS_NAME" value="leapYear.DateUtilTest" />
-      <option name="METHOD_NAME" value="centuryYearsAreNotLeap" />
+      <option name="PACKAGE_NAME" value="wordcount" />
+      <option name="MAIN_CLASS_NAME" value="wordcount.WordCounterTest" />
+      <option name="METHOD_NAME" value="inputWithDuplicatesCountsOnlyIndyvidualCases" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateUtilTest.normalLeapYearisLeapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WordCounterTest.inputWithMixedCaseDuplicatesCountsOnlyIndyvidualCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Instant TDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leapYear.*" />
+          <option name="PATTERN" value="wordcount.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leapYear" />
-      <option name="MAIN_CLASS_NAME" value="leapYear.DateUtilTest" />
-      <option name="METHOD_NAME" value="normalLeapYearisLeapTest" />
+      <option name="PACKAGE_NAME" value="wordcount" />
+      <option name="MAIN_CLASS_NAME" value="wordcount.WordCounterTest" />
+      <option name="METHOD_NAME" value="inputWithMixedCaseDuplicatesCountsOnlyIndyvidualCases" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateUtilTest.normalLeapYearisLeapTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WordCounterTest.inputWithPuntuationStillSpotsDuplicates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Instant TDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leapYear.*" />
+          <option name="PATTERN" value="wordcount.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leapYear" />
-      <option name="MAIN_CLASS_NAME" value="leapYear.DateUtilTest" />
-      <option name="METHOD_NAME" value="normalLeapYearisLeapTest2" />
+      <option name="PACKAGE_NAME" value="wordcount" />
+      <option name="MAIN_CLASS_NAME" value="wordcount.WordCounterTest" />
+      <option name="METHOD_NAME" value="inputWithPuntuationStillSpotsDuplicates" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateUtilTest.numberCanBeDivideDivide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WordCounterTest.severalMultiWordStringHasCorrectWordCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Instant TDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leapYear.*" />
+          <option name="PATTERN" value="wordcount.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leapYear" />
-      <option name="MAIN_CLASS_NAME" value="leapYear.DateUtilTest" />
-      <option name="METHOD_NAME" value="numberCanBeDivideDivide" />
+      <option name="PACKAGE_NAME" value="wordcount" />
+      <option name="MAIN_CLASS_NAME" value="wordcount.WordCounterTest" />
+      <option name="METHOD_NAME" value="severalMultiWordStringHasCorrectWordCount" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.DateUtilTest.normalLeapYearisLeapTest" />
-      <item itemvalue="JUnit.DateUtilTest" />
-      <item itemvalue="JUnit.DateUtilTest.normalLeapYearisLeapTest2" />
-      <item itemvalue="JUnit.DateUtilTest.centuryYearsAreNotLeap" />
-      <item itemvalue="JUnit.DateUtilTest.numberCanBeDivideDivide" />
+      <item itemvalue="JUnit.WordCounterTest" />
+      <item itemvalue="JUnit.WordCounterTest.severalMultiWordStringHasCorrectWordCount" />
+      <item itemvalue="JUnit.WordCounterTest.inputWithDuplicatesCountsOnlyIndyvidualCases" />
+      <item itemvalue="JUnit.WordCounterTest.inputWithMixedCaseDuplicatesCountsOnlyIndyvidualCases" />
+      <item itemvalue="JUnit.WordCounterTest.inputWithPuntuationStillSpotsDuplicates" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DateUtilTest" />
-        <item itemvalue="JUnit.DateUtilTest.numberCanBeDivideDivide" />
-        <item itemvalue="JUnit.DateUtilTest.centuryYearsAreNotLeap" />
-        <item itemvalue="JUnit.DateUtilTest.normalLeapYearisLeapTest2" />
-        <item itemvalue="JUnit.DateUtilTest.normalLeapYearisLeapTest" />
+        <item itemvalue="JUnit.WordCounterTest" />
+        <item itemvalue="JUnit.WordCounterTest.inputWithPuntuationStillSpotsDuplicates" />
+        <item itemvalue="JUnit.WordCounterTest.inputWithMixedCaseDuplicatesCountsOnlyIndyvidualCases" />
+        <item itemvalue="JUnit.WordCounterTest.inputWithDuplicatesCountsOnlyIndyvidualCases" />
+        <item itemvalue="JUnit.WordCounterTest.severalMultiWordStringHasCorrectWordCount" />
       </list>
     </recent_temporary>
   </component>
@@ -321,62 +416,58 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537589163268</updated>
-      <workItem from="1537589168673" duration="2248000" />
+      <workItem from="1537589168673" duration="3075000" />
+      <workItem from="1537975132127" duration="5175000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DateUtilTest - 2018.09.22 at 06h 17m 37s.xml">
-      <configuration name="DateUtilTest" configurationId="JUnit" />
+    <history-entry file="WordCounterTest_inputWithDuplicatesCountsOnlyIndyvidualCases - 2018.09.26 at 18h 57m 13s.xml">
+      <configuration name="WordCounterTest.inputWithDuplicatesCountsOnlyIndyvidualCases" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DateUtilTest - 2018.09.22 at 06h 17m 52s.xml">
-      <configuration name="DateUtilTest" configurationId="JUnit" />
+    <history-entry file="WordCounterTest_inputWithDuplicatesCountsOnlyIndyvidualCases - 2018.09.26 at 19h 00m 48s.xml">
+      <configuration name="WordCounterTest.inputWithDuplicatesCountsOnlyIndyvidualCases" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DateUtilTest_centuryYearsAreNotLeap - 2018.09.23 at 19h 34m 01s.xml">
-      <configuration name="DateUtilTest.centuryYearsAreNotLeap" configurationId="JUnit" />
+    <history-entry file="WordCounterTest - 2018.09.26 at 19h 00m 55s.xml">
+      <configuration name="WordCounterTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DateUtilTest - 2018.09.23 at 19h 35m 09s.xml">
-      <configuration name="DateUtilTest" configurationId="JUnit" />
+    <history-entry file="WordCounterTest - 2018.09.26 at 19h 03m 01s.xml">
+      <configuration name="WordCounterTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DateUtilTest - 2018.09.23 at 19h 35m 43s.xml">
-      <configuration name="DateUtilTest" configurationId="JUnit" />
+    <history-entry file="WordCounterTest - 2018.09.26 at 19h 05m 02s.xml">
+      <configuration name="WordCounterTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DateUtilTest - 2018.09.23 at 19h 36m 06s.xml">
-      <configuration name="DateUtilTest" configurationId="JUnit" />
+    <history-entry file="WordCounterTest - 2018.09.26 at 19h 05m 12s.xml">
+      <configuration name="WordCounterTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DateUtilTest - 2018.09.23 at 19h 36m 34s.xml">
-      <configuration name="DateUtilTest" configurationId="JUnit" />
+    <history-entry file="WordCounterTest_inputWithMixedCaseDuplicatesCountsOnlyIndyvidualCases - 2018.09.26 at 19h 06m 24s.xml">
+      <configuration name="WordCounterTest.inputWithMixedCaseDuplicatesCountsOnlyIndyvidualCases" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DateUtilTest - 2018.09.23 at 19h 37m 02s.xml">
-      <configuration name="DateUtilTest" configurationId="JUnit" />
+    <history-entry file="WordCounterTest_inputWithMixedCaseDuplicatesCountsOnlyIndyvidualCases - 2018.09.26 at 19h 06m 49s.xml">
+      <configuration name="WordCounterTest.inputWithMixedCaseDuplicatesCountsOnlyIndyvidualCases" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DateUtilTest - 2018.09.23 at 19h 38m 16s.xml">
-      <configuration name="DateUtilTest" configurationId="JUnit" />
+    <history-entry file="WordCounterTest - 2018.09.26 at 19h 06m 56s.xml">
+      <configuration name="WordCounterTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DateUtilTest_numberCanBeDivideDivide - 2018.09.23 at 19h 42m 25s.xml">
-      <configuration name="DateUtilTest.numberCanBeDivideDivide" configurationId="JUnit" />
+    <history-entry file="WordCounterTest_inputWithPuntuationStillSpotsDuplicates - 2018.09.26 at 19h 11m 08s.xml">
+      <configuration name="WordCounterTest.inputWithPuntuationStillSpotsDuplicates" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2248000" />
+    <option name="totallyTimeSpent" value="8250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32907802" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
@@ -384,15 +475,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,46 +498,68 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/target/wordcount">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leapYear/DateUtilTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="221">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/wordcount.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="307">
+            <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leapYear/DateUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/wordcount/WordCounterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="65" column="48" selection-start-line="65" selection-start-column="48" selection-end-line="65" selection-end-column="48" />
           <folding>
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/leapYear/DateUtilTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/wordcount/WordCounter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        <state relative-caret-position="238">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#145#153#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -449,9 +567,81 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Instant TDD</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
