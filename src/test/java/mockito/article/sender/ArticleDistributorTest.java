@@ -2,9 +2,15 @@ package mockito.article.sender;
 
 import mockito.article.article.Article;
 import mockito.article.article.Type;
-import mockito.article.client.Channel;
+import mockito.article.client.EntertainmentChannel;
+import mockito.article.client.OtherChannel;
+import mockito.article.client.SportsChannel;
 import mockito.article.database.ArticleDataAccess;
 import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.mockito.InjectMocks;
+import org.mockito.Mock;
+import org.mockito.runners.MockitoJUnitRunner;
 
 import java.util.List;
 
@@ -12,19 +18,28 @@ import static java.util.Arrays.asList;
 import static org.junit.Assert.*;
 import static org.mockito.Matchers.any;
 import static org.mockito.Mockito.*;
-import static sun.management.snmp.jvminstr.JvmThreadInstanceEntryImpl.ThreadStateMap.Byte1.other;
 
+@RunWith(MockitoJUnitRunner.class)
 public class ArticleDistributorTest {
+
+    @Mock
+    private SportsChannel sport;
+
+    @Mock
+    private EntertainmentChannel entertainment;
+
+    @Mock
+    private OtherChannel other;
+
+    @Mock
+    private ArticleDataAccess dataAccess;
+
+    @InjectMocks
+    private ArticleDistributor distributor;
+
 
     @Test
     public void sportGoesToSportPoliticsGoesToOther() {
-
-        Channel sport = mock(Channel.class);
-        Channel entertainment = mock(Channel.class);
-        Channel other = mock(Channel.class);
-        ArticleDataAccess dataAccess = mock(ArticleDataAccess.class);
-
-        ArticleDistributor distributor = new ArticleDistributor(sport, entertainment, other, dataAccess);
 
         // given this list of articles is returned form the database
         List<Article> list = asList(
