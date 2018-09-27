@@ -1,4 +1,4 @@
-package wordcount;
+package jUnit.wordcount;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package wordcount;
+package jUnit.wordcount;
 
 import org.junit.Test;
 

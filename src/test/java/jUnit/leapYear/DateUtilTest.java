@@ -1,4 +1,4 @@
-package leapYear;
+package jUnit.leapYear;
 
 import org.junit.Test;
 
