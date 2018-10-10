@@ -1,8 +1,8 @@
 package jUnit.assertionsExample;
 
 import org.junit.Assert;
+import org.junit.Ignore;
 import org.junit.Test;
-import org.mockito.internal.matchers.ArrayEquals;
 
 import static java.util.Arrays.asList;
 import static org.junit.Assert.*;
@@ -86,6 +86,7 @@ public class RectangleTest {
         assertEquals(example1, duplicateOfExample1);
     }
 
+    @Ignore("Reason why test is ignored")
     @Test
     public void tryAssertFail(){
         Assert.fail("This should never happen...");
@@ -103,6 +104,5 @@ public class RectangleTest {
         Rectangle rectangle = new Rectangle(5, 6);
 
         assertEquals(asList(5, 6), rectangle.getSidesList());
-
     }
 }

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cb0b6840-adb0-4358-87c1-8912991460d0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/jUnit/assertionsExample/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/jUnit/assertionsExample/RectangleTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,16 +17,16 @@
     <session id="1293591327">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.15" value="3" />
+          <entry key="project.open.time.15" value="4" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="19" />
+          <entry key="java" value="21" />
           <entry key="md" value="1" />
           <entry key="wordcount" value="1" />
           <entry key="xml" value="6" />
@@ -33,7 +34,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="19" />
+          <entry key="JAVA" value="21" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="6" />
@@ -42,14 +43,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="4678" />
+          <entry key="java" value="4964" />
           <entry key="md" value="612" />
           <entry key="xml" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4678" />
+          <entry key="JAVA" value="4964" />
           <entry key="Markdown" value="612" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="9" />
@@ -62,20 +63,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/jUnit/assertionsExample/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
+            <state relative-caret-position="663">
               <caret line="49" column="49" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#576#577#0" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-                <element signature="e#707#708#0" expanded="true" />
-                <element signature="e#744#745#0" expanded="true" />
-                <element signature="e#793#794#0" expanded="true" />
-                <element signature="e#827#828#0" expanded="true" />
-                <element signature="e#1053#1054#0" expanded="true" />
-                <element signature="e#1097#1098#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,80 +75,36 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/assertionsExample/RectangleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="104" column="44" selection-start-line="104" selection-start-column="44" selection-end-line="104" selection-end-column="44" />
+            <state relative-caret-position="1649">
+              <caret line="105" column="61" selection-start-line="105" selection-start-column="61" selection-end-line="105" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1099#1100#0" expanded="true" />
-                <element signature="e#1169#1170#0" expanded="true" />
-                <element signature="e#1219#1220#0" expanded="true" />
-                <element signature="e#1296#1297#0" expanded="true" />
-                <element signature="e#1536#1537#0" expanded="true" />
-                <element signature="e#1606#1607#0" expanded="true" />
-                <element signature="e#2056#2057#0" expanded="true" />
-                <element signature="e#2085#2086#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mockito/article/article/Article.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/exceptions/AssertExceptionsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            <state relative-caret-position="136">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
               <folding>
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/mockito/article/sender/ArticleDistributorTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/timeoutAdding/AssertTimeout.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mockito/article/client/EntertainmentChannel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mockito/article/client/OtherChannel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mockito/article/client/SportsChannel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/wordcount/WordCounterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="64" column="42" selection-start-line="64" selection-start-column="42" selection-end-line="64" selection-end-column="42" />
+            <state relative-caret-position="289">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -169,8 +116,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -200,6 +147,8 @@
         <option value="$PROJECT_DIR$/src/test/java/mockito/article/sender/ArticleDistributorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/mockito/article/sender/ArticleDistributor.java" />
         <option value="$PROJECT_DIR$/src/main/java/jUnit/assertionsExample/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exceptions/AssertExceptionsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/timeoutAdding/AssertTimeout.java" />
         <option value="$PROJECT_DIR$/src/test/java/jUnit/assertionsExample/RectangleTest.java" />
       </list>
     </option>
@@ -308,14 +257,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="InstantTDDwithJavaJUnitandMockito" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Instant TDD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jUnit" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -325,7 +266,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538755803514" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538858093649" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -359,7 +300,53 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RectangleTest.tryAssertList">
+  <component name="RunManager" selected="JUnit.RectangleTest">
+    <configuration name="AssertExceptionsTest.willThrowThrows" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Instant TDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exceptions" />
+      <option name="MAIN_CLASS_NAME" value="exceptions.AssertExceptionsTest" />
+      <option name="METHOD_NAME" value="willThrowThrows" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssertTimeout.testCanRunForever" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Instant TDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timeoutAdding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="timeoutAdding" />
+      <option name="MAIN_CLASS_NAME" value="timeoutAdding.AssertTimeout" />
+      <option name="METHOD_NAME" value="testCanRunForever" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Instant TDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jUnit.assertionsExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jUnit.assertionsExample" />
+      <option name="MAIN_CLASS_NAME" value="jUnit.assertionsExample.RectangleTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RectangleTest.tryAssertArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Instant TDD" />
       <extension name="coverage">
@@ -371,38 +358,6 @@
       <option name="PACKAGE_NAME" value="jUnit.assertionsExample" />
       <option name="MAIN_CLASS_NAME" value="jUnit.assertionsExample.RectangleTest" />
       <option name="METHOD_NAME" value="tryAssertArray" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RectangleTest.tryAssertEqualsWithObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Instant TDD" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jUnit.assertionsExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="jUnit.assertionsExample" />
-      <option name="MAIN_CLASS_NAME" value="jUnit.assertionsExample.RectangleTest" />
-      <option name="METHOD_NAME" value="tryAssertEqualsWithObject" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RectangleTest.tryAssertFail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Instant TDD" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jUnit.assertionsExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="jUnit.assertionsExample" />
-      <option name="MAIN_CLASS_NAME" value="jUnit.assertionsExample.RectangleTest" />
-      <option name="METHOD_NAME" value="tryAssertFail" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -424,36 +379,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleTest.tryAssertSame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Instant TDD" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jUnit.assertionsExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="jUnit.assertionsExample" />
-      <option name="MAIN_CLASS_NAME" value="jUnit.assertionsExample.RectangleTest" />
-      <option name="METHOD_NAME" value="tryAssertSame" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.RectangleTest.tryAssertEqualsWithObject" />
-      <item itemvalue="JUnit.RectangleTest.tryAssertSame" />
-      <item itemvalue="JUnit.RectangleTest.tryAssertFail" />
       <item itemvalue="JUnit.RectangleTest.tryAssertArray" />
       <item itemvalue="JUnit.RectangleTest.tryAssertList" />
+      <item itemvalue="JUnit.AssertExceptionsTest.willThrowThrows" />
+      <item itemvalue="JUnit.AssertTimeout.testCanRunForever" />
+      <item itemvalue="JUnit.RectangleTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RectangleTest" />
+        <item itemvalue="JUnit.AssertTimeout.testCanRunForever" />
+        <item itemvalue="JUnit.AssertExceptionsTest.willThrowThrows" />
         <item itemvalue="JUnit.RectangleTest.tryAssertList" />
         <item itemvalue="JUnit.RectangleTest.tryAssertArray" />
-        <item itemvalue="JUnit.RectangleTest.tryAssertFail" />
-        <item itemvalue="JUnit.RectangleTest.tryAssertSame" />
-        <item itemvalue="JUnit.RectangleTest.tryAssertEqualsWithObject" />
       </list>
     </recent_temporary>
   </component>
@@ -471,26 +410,12 @@
       <workItem from="1537975132127" duration="8026000" />
       <workItem from="1538053768588" duration="9472000" />
       <workItem from="1538064599062" duration="27000" />
-      <workItem from="1538748644038" duration="4737000" />
+      <workItem from="1538748644038" duration="5445000" />
+      <workItem from="1538828652322" duration="1125000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RectangleTest_tryAssertEqualsWithDouble - 2018.10.05 at 17h 53m 42s.xml">
-      <configuration name="RectangleTest.tryAssertEqualsWithDouble" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RectangleTest_tryAssertEqualsWithDouble - 2018.10.05 at 17h 53m 49s.xml">
-      <configuration name="RectangleTest.tryAssertEqualsWithDouble" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RectangleTest_tryAssertEqualsWithObject - 2018.10.05 at 17h 57m 15s.xml">
-      <configuration name="RectangleTest.tryAssertEqualsWithObject" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RectangleTest_tryAssertEqualsWithObject - 2018.10.05 at 17h 58m 25s.xml">
-      <configuration name="RectangleTest.tryAssertEqualsWithObject" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RectangleTest_tryAssertSame - 2018.10.05 at 18h 01m 01s.xml">
-      <configuration name="RectangleTest.tryAssertSame" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RectangleTest_tryAssertEqualsWithObject - 2018.10.05 at 18h 01m 32s.xml">
       <configuration name="RectangleTest.tryAssertEqualsWithObject" configurationId="JUnit" />
     </history-entry>
@@ -506,15 +431,29 @@
     <history-entry file="RectangleTest_tryAssertList - 2018.10.05 at 18h 09m 44s.xml">
       <configuration name="RectangleTest.tryAssertList" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RectangleTest_tryAssertList - 2018.10.05 at 18h 10m 06s.xml">
+      <configuration name="RectangleTest.tryAssertList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssertExceptionsTest_willThrowThrows - 2018.10.06 at 14h 28m 20s.xml">
+      <configuration name="AssertExceptionsTest.willThrowThrows" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssertExceptionsTest_willThrowThrows - 2018.10.06 at 14h 28m 47s.xml">
+      <configuration name="AssertExceptionsTest.willThrowThrows" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssertTimeout_testCanRunForever - 2018.10.06 at 14h 33m 09s.xml">
+      <configuration name="AssertTimeout.testCanRunForever" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RectangleTest - 2018.10.06 at 14h 38m 53s.xml">
+      <configuration name="RectangleTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25337000" />
+    <option name="totallyTimeSpent" value="27170000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16442953" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16644295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -524,7 +463,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2212766" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33049646" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -607,9 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -620,10 +556,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/mockito/article/sender/ArticleDistributorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/leapYear/DateUtilTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        <state relative-caret-position="102">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jUnit/leapYear/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jUnit/assertionsExample/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="49" column="49" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mockito/article/client/EntertainmentChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -643,7 +606,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/wordcount/WordCounterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
+        <state relative-caret-position="623">
           <caret line="64" column="42" selection-start-line="64" selection-start-column="42" selection-end-line="64" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -651,31 +614,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mockito/article/client/EntertainmentChannel.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/mockito/article/sender/ArticleDistributorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/leapYear/DateUtilTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jUnit/leapYear/DateUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -691,40 +633,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jUnit/assertionsExample/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/exceptions/AssertExceptionsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="49" column="49" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
+        <state relative-caret-position="136">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#707#708#0" expanded="true" />
-            <element signature="e#744#745#0" expanded="true" />
-            <element signature="e#793#794#0" expanded="true" />
-            <element signature="e#827#828#0" expanded="true" />
-            <element signature="e#1053#1054#0" expanded="true" />
-            <element signature="e#1097#1098#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/timeoutAdding/AssertTimeout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/assertionsExample/RectangleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="104" column="44" selection-start-line="104" selection-start-column="44" selection-end-line="104" selection-end-column="44" />
+        <state relative-caret-position="1649">
+          <caret line="105" column="61" selection-start-line="105" selection-start-column="61" selection-end-line="105" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1099#1100#0" expanded="true" />
-            <element signature="e#1169#1170#0" expanded="true" />
-            <element signature="e#1219#1220#0" expanded="true" />
-            <element signature="e#1296#1297#0" expanded="true" />
-            <element signature="e#1536#1537#0" expanded="true" />
-            <element signature="e#1606#1607#0" expanded="true" />
-            <element signature="e#2056#2057#0" expanded="true" />
-            <element signature="e#2085#2086#0" expanded="true" />
           </folding>
         </state>
       </provider>
