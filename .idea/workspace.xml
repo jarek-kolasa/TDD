@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cb0b6840-adb0-4358-87c1-8912991460d0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/jUnit/beforeAndAfter/ReaderWriterWithBeforeAndAfterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jUnit/beforeAndAfter/ReaderWriterWithBeforeAndAfterTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,20 +17,22 @@
     <session id="1293591327">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.15" value="5" />
           <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="24" />
+          <entry key="java" value="27" />
           <entry key="md" value="1" />
           <entry key="wordcount" value="1" />
           <entry key="xml" value="7" />
@@ -37,7 +40,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="24" />
+          <entry key="JAVA" value="27" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="7" />
@@ -46,14 +49,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="6377" />
+          <entry key="java" value="6680" />
           <entry key="md" value="612" />
           <entry key="xml" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6377" />
+          <entry key="JAVA" value="6680" />
           <entry key="Markdown" value="612" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="9" />
@@ -64,10 +67,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jUnit/assertionsExample/Rectangle.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/rule/AssertExceptionRuleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="49" column="49" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
+            <state relative-caret-position="306">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,25 +78,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/assertionsExample/RectangleTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/beforeAndAfter/ReaderWriterTemFolderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="105" column="61" selection-start-line="105" selection-start-column="61" selection-end-line="105" selection-end-column="61" />
+            <state relative-caret-position="504">
+              <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jUnit/beforeAndAfter/ReaderWriter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -102,41 +95,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/beforeAndAfter/ReaderWriterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-120">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/beforeAndAfter/ReaderWriterWithBeforeAndAfterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/exceptions/AssertExceptionsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/timeoutAdding/AssertTimeout.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="544">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -187,6 +147,8 @@
         <option value="$PROJECT_DIR$/src/main/java/jUnit/beforeAndAfter/ReaderWriter.java" />
         <option value="$PROJECT_DIR$/src/test/java/jUnit/beforeAndAfter/ReaderWriterTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/jUnit/beforeAndAfter/ReaderWriterWithBeforeAndAfterTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/jUnit/rule/AssertExceptionRuleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/jUnit/beforeAndAfter/ReaderWriterTemFolderTest.java" />
       </list>
     </option>
   </component>
@@ -237,6 +199,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -305,13 +268,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539856188658" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540011176652" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Java - zadania/Codewars" />
@@ -346,19 +308,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReaderWriterWithBeforeAndAfterTest">
-    <configuration name="AssertTimeout.testCanRunForever" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ReaderWriterTemFolderTest">
+    <configuration name="AssertExceptionRuleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Instant TDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timeoutAdding.*" />
+          <option name="PATTERN" value="jUnit.rule.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="timeoutAdding" />
-      <option name="MAIN_CLASS_NAME" value="timeoutAdding.AssertTimeout" />
-      <option name="METHOD_NAME" value="testCanRunForever" />
+      <option name="PACKAGE_NAME" value="jUnit.rule" />
+      <option name="MAIN_CLASS_NAME" value="jUnit.rule.AssertExceptionRuleTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssertExceptionRuleTest.willThrowError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Instant TDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jUnit.rule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jUnit.rule" />
+      <option name="MAIN_CLASS_NAME" value="jUnit.rule.AssertExceptionRuleTest" />
+      <option name="METHOD_NAME" value="willThrowError" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReaderWriterTemFolderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Instant TDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jUnit.beforeAndAfter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jUnit.beforeAndAfter" />
+      <option name="MAIN_CLASS_NAME" value="jUnit.beforeAndAfter.ReaderWriterTemFolderTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -377,22 +367,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReaderWriterTest.readslinesItWrote" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Instant TDD" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jUnit.beforeAndAfter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="jUnit.beforeAndAfter" />
-      <option name="MAIN_CLASS_NAME" value="jUnit.beforeAndAfter.ReaderWriterTest" />
-      <option name="METHOD_NAME" value="readslinesItWrote" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ReaderWriterWithBeforeAndAfterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Instant TDD" />
       <extension name="coverage">
@@ -407,34 +381,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Instant TDD" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jUnit.assertionsExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="jUnit.assertionsExample" />
-      <option name="MAIN_CLASS_NAME" value="jUnit.assertionsExample.RectangleTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.AssertTimeout.testCanRunForever" />
-      <item itemvalue="JUnit.RectangleTest" />
       <item itemvalue="JUnit.ReaderWriterTest" />
-      <item itemvalue="JUnit.ReaderWriterTest.readslinesItWrote" />
       <item itemvalue="JUnit.ReaderWriterWithBeforeAndAfterTest" />
+      <item itemvalue="JUnit.AssertExceptionRuleTest" />
+      <item itemvalue="JUnit.AssertExceptionRuleTest.willThrowError" />
+      <item itemvalue="JUnit.ReaderWriterTemFolderTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ReaderWriterTemFolderTest" />
+        <item itemvalue="JUnit.AssertExceptionRuleTest.willThrowError" />
+        <item itemvalue="JUnit.AssertExceptionRuleTest" />
         <item itemvalue="JUnit.ReaderWriterWithBeforeAndAfterTest" />
         <item itemvalue="JUnit.ReaderWriterTest" />
-        <item itemvalue="JUnit.ReaderWriterTest.readslinesItWrote" />
-        <item itemvalue="JUnit.RectangleTest" />
-        <item itemvalue="JUnit.AssertTimeout.testCanRunForever" />
       </list>
     </recent_temporary>
   </component>
@@ -458,26 +418,13 @@
       <workItem from="1539662270986" duration="42000" />
       <workItem from="1539662351206" duration="623000" />
       <workItem from="1539851435778" duration="27000" />
-      <workItem from="1539851568320" duration="4554000" />
+      <workItem from="1539851568320" duration="5366000" />
+      <workItem from="1539944625363" duration="1370000" />
+      <workItem from="1540010602132" duration="568000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReaderWriterWithBeforeAndAfterTest - 2018.10.18 at 11h 32m 58s.xml">
-      <configuration name="ReaderWriterWithBeforeAndAfterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReaderWriterTest - 2018.10.18 at 11h 39m 53s.xml">
-      <configuration name="ReaderWriterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReaderWriterTest - 2018.10.18 at 11h 40m 04s.xml">
-      <configuration name="ReaderWriterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReaderWriterWithBeforeAndAfterTest - 2018.10.18 at 11h 41m 11s.xml">
-      <configuration name="ReaderWriterWithBeforeAndAfterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReaderWriterWithBeforeAndAfterTest - 2018.10.18 at 11h 45m 23s.xml">
-      <configuration name="ReaderWriterWithBeforeAndAfterTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ReaderWriterWithBeforeAndAfterTest - 2018.10.18 at 11h 46m 30s.xml">
       <configuration name="ReaderWriterWithBeforeAndAfterTest" configurationId="JUnit" />
     </history-entry>
@@ -493,15 +440,29 @@
     <history-entry file="ReaderWriterTest - 2018.10.18 at 11h 48m 17s.xml">
       <configuration name="ReaderWriterTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ReaderWriterWithBeforeAndAfterTest - 2018.10.18 at 11h 49m 42s.xml">
+      <configuration name="ReaderWriterWithBeforeAndAfterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssertExceptionRuleTest - 2018.10.19 at 12h 36m 13s.xml">
+      <configuration name="AssertExceptionRuleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssertExceptionRuleTest_willThrowError - 2018.10.19 at 12h 36m 25s.xml">
+      <configuration name="AssertExceptionRuleTest.willThrowError" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssertExceptionRuleTest_willThrowError - 2018.10.19 at 12h 36m 38s.xml">
+      <configuration name="AssertExceptionRuleTest.willThrowError" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssertExceptionRuleTest_willThrowError - 2018.10.19 at 12h 36m 48s.xml">
+      <configuration name="AssertExceptionRuleTest.willThrowError" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33824000" />
+    <option name="totallyTimeSpent" value="36574000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17718121" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18255034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -511,7 +472,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33049646" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33049646" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -653,6 +614,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/jUnit/assertionsExample/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
@@ -663,30 +631,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/exceptions/AssertExceptionsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/beforeAndAfter/ReaderWriterWithBeforeAndAfterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/timeoutAdding/AssertTimeout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/assertionsExample/RectangleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="105" column="61" selection-start-line="105" selection-start-column="61" selection-end-line="105" selection-end-column="61" />
+        <state relative-caret-position="339">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -696,33 +644,71 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/jUnit/beforeAndAfter/ReaderWriter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/exceptions/AssertExceptionsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="136">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/timeoutAdding/AssertTimeout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/assertionsExample/RectangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="105" column="61" selection-start-line="105" selection-start-column="61" selection-end-line="105" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/rule/AssertExceptionRuleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/beforeAndAfter/ReaderWriterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="544">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/beforeAndAfter/ReaderWriterWithBeforeAndAfterTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/beforeAndAfter/ReaderWriterTemFolderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        <state relative-caret-position="504">
+          <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
           </folding>
         </state>
       </provider>
