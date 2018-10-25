@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cb0b6840-adb0-4358-87c1-8912991460d0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/jUnit/beforeAndAfter/ReaderWriterWithBeforeAndAfterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jUnit/beforeAndAfter/ReaderWriterWithBeforeAndAfterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,43 +23,44 @@
           <entry key="project.open.time.15" value="5" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="27" />
+          <entry key="java" value="30" />
           <entry key="md" value="1" />
           <entry key="wordcount" value="1" />
-          <entry key="xml" value="7" />
+          <entry key="xml" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="27" />
+          <entry key="JAVA" value="30" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="7" />
+          <entry key="XML" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="6680" />
+          <entry key="java" value="7554" />
           <entry key="md" value="612" />
-          <entry key="xml" value="9" />
+          <entry key="xml" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6680" />
+          <entry key="JAVA" value="7554" />
           <entry key="Markdown" value="612" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="9" />
+          <entry key="XML" value="10" />
         </counts>
       </usages-collector>
     </session>
@@ -69,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/rule/AssertExceptionRuleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="238">
               <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -78,15 +79,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/beforeAndAfter/ReaderWriterTemFolderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+            <state relative-caret-position="170">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#512#513#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,11 +96,57 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/beforeAndAfter/ReaderWriterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="442">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jUnit/assertionsExample/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="49" column="49" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/assertionsExample/RectangleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1581">
+              <caret line="106" column="5" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/assertionsExample/AssertionHamcrestTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+              <folding>
+                <element signature="e#2076#2077#0" expanded="true" />
+                <element signature="e#2148#2149#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="487">
+              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -134,7 +181,6 @@
         <option value="$PROJECT_DIR$/src/main/java/mockito/article/article/Type.java" />
         <option value="$PROJECT_DIR$/src/main/java/mockito/article/client/Channel.java" />
         <option value="$PROJECT_DIR$/src/main/java/mockito/article/database/ArticleDataAccess.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/mockito/article/client/EntertainmentChannel.java" />
         <option value="$PROJECT_DIR$/src/main/java/mockito/article/client/OterChannel.java" />
         <option value="$PROJECT_DIR$/src/main/java/mockito/article/client/SportsChannel.java" />
@@ -149,6 +195,8 @@
         <option value="$PROJECT_DIR$/src/test/java/jUnit/beforeAndAfter/ReaderWriterWithBeforeAndAfterTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/jUnit/rule/AssertExceptionRuleTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/jUnit/beforeAndAfter/ReaderWriterTemFolderTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/jUnit/assertionsExample/AssertionHamcrestTest.java" />
       </list>
     </option>
   </component>
@@ -199,8 +247,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -238,6 +284,15 @@
               <item name="InstantTDDwithJavaJUnitandMockito" type="b2602c69:ProjectViewProjectNode" />
               <item name="Instant TDD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jUnit" type="462c0819:PsiDirectoryNode" />
+              <item name="assertionsExample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InstantTDDwithJavaJUnitandMockito" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Instant TDD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -262,18 +317,20 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jUnit" type="462c0819:PsiDirectoryNode" />
-              <item name="beforeAndAfter" type="462c0819:PsiDirectoryNode" />
+              <item name="assertionsExample" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540011176652" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540490030765" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Java - zadania/Codewars" />
@@ -308,93 +365,99 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReaderWriterTemFolderTest">
-    <configuration name="AssertExceptionRuleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.AssertionHamcrestTest">
+    <configuration name="AssertionHamcrestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Instant TDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jUnit.rule.*" />
+          <option name="PATTERN" value="jUnit.assertionsExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="jUnit.rule" />
-      <option name="MAIN_CLASS_NAME" value="jUnit.rule.AssertExceptionRuleTest" />
+      <option name="PACKAGE_NAME" value="jUnit.assertionsExample" />
+      <option name="MAIN_CLASS_NAME" value="jUnit.assertionsExample.AssertionHamcrestTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AssertExceptionRuleTest.willThrowError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AssertionHamcrestTest.tryAssertEqualsWithDouble" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Instant TDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jUnit.rule.*" />
+          <option name="PATTERN" value="jUnit.assertionsExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="jUnit.rule" />
-      <option name="MAIN_CLASS_NAME" value="jUnit.rule.AssertExceptionRuleTest" />
-      <option name="METHOD_NAME" value="willThrowError" />
+      <option name="PACKAGE_NAME" value="jUnit.assertionsExample" />
+      <option name="MAIN_CLASS_NAME" value="jUnit.assertionsExample.AssertionHamcrestTest" />
+      <option name="METHOD_NAME" value="tryAssertEqualsWithDouble" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReaderWriterTemFolderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AssertionHamcrestTest.tryAssertEqualsWithObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Instant TDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jUnit.beforeAndAfter.*" />
+          <option name="PATTERN" value="jUnit.assertionsExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="jUnit.beforeAndAfter" />
-      <option name="MAIN_CLASS_NAME" value="jUnit.beforeAndAfter.ReaderWriterTemFolderTest" />
+      <option name="PACKAGE_NAME" value="jUnit.assertionsExample" />
+      <option name="MAIN_CLASS_NAME" value="jUnit.assertionsExample.AssertionHamcrestTest" />
+      <option name="METHOD_NAME" value="tryAssertEqualsWithObject" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReaderWriterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AssertionHamcrestTest.tryAssertList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Instant TDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jUnit.beforeAndAfter.*" />
+          <option name="PATTERN" value="jUnit.assertionsExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="jUnit.beforeAndAfter" />
-      <option name="MAIN_CLASS_NAME" value="jUnit.beforeAndAfter.ReaderWriterTest" />
+      <option name="PACKAGE_NAME" value="jUnit.assertionsExample" />
+      <option name="MAIN_CLASS_NAME" value="jUnit.assertionsExample.AssertionHamcrestTest" />
+      <option name="METHOD_NAME" value="tryAssertList" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReaderWriterWithBeforeAndAfterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AssertionHamcrestTest.tryAssertSame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Instant TDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jUnit.beforeAndAfter.*" />
+          <option name="PATTERN" value="jUnit.assertionsExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="jUnit.beforeAndAfter" />
-      <option name="MAIN_CLASS_NAME" value="jUnit.beforeAndAfter.ReaderWriterWithBeforeAndAfterTest" />
+      <option name="PACKAGE_NAME" value="jUnit.assertionsExample" />
+      <option name="MAIN_CLASS_NAME" value="jUnit.assertionsExample.AssertionHamcrestTest" />
+      <option name="METHOD_NAME" value="tryAssertSame" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ReaderWriterTest" />
-      <item itemvalue="JUnit.ReaderWriterWithBeforeAndAfterTest" />
-      <item itemvalue="JUnit.AssertExceptionRuleTest" />
-      <item itemvalue="JUnit.AssertExceptionRuleTest.willThrowError" />
-      <item itemvalue="JUnit.ReaderWriterTemFolderTest" />
+      <item itemvalue="JUnit.AssertionHamcrestTest.tryAssertEqualsWithObject" />
+      <item itemvalue="JUnit.AssertionHamcrestTest.tryAssertEqualsWithDouble" />
+      <item itemvalue="JUnit.AssertionHamcrestTest.tryAssertSame" />
+      <item itemvalue="JUnit.AssertionHamcrestTest.tryAssertList" />
+      <item itemvalue="JUnit.AssertionHamcrestTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ReaderWriterTemFolderTest" />
-        <item itemvalue="JUnit.AssertExceptionRuleTest.willThrowError" />
-        <item itemvalue="JUnit.AssertExceptionRuleTest" />
-        <item itemvalue="JUnit.ReaderWriterWithBeforeAndAfterTest" />
-        <item itemvalue="JUnit.ReaderWriterTest" />
+        <item itemvalue="JUnit.AssertionHamcrestTest" />
+        <item itemvalue="JUnit.AssertionHamcrestTest.tryAssertList" />
+        <item itemvalue="JUnit.AssertionHamcrestTest.tryAssertEqualsWithObject" />
+        <item itemvalue="JUnit.AssertionHamcrestTest.tryAssertSame" />
+        <item itemvalue="JUnit.AssertionHamcrestTest.tryAssertEqualsWithDouble" />
       </list>
     </recent_temporary>
   </component>
@@ -420,49 +483,51 @@
       <workItem from="1539851435778" duration="27000" />
       <workItem from="1539851568320" duration="5366000" />
       <workItem from="1539944625363" duration="1370000" />
-      <workItem from="1540010602132" duration="568000" />
+      <workItem from="1540010602132" duration="5107000" />
+      <workItem from="1540488510880" duration="1321000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReaderWriterWithBeforeAndAfterTest - 2018.10.18 at 11h 46m 30s.xml">
-      <configuration name="ReaderWriterWithBeforeAndAfterTest" configurationId="JUnit" />
+    <history-entry file="AssertionHamcrestTest_tryAssertEqualsWithStrings - 2018.10.22 at 18h 35m 55s.xml">
+      <configuration name="AssertionHamcrestTest.tryAssertEqualsWithStrings" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReaderWriterWithBeforeAndAfterTest - 2018.10.18 at 11h 47m 07s.xml">
-      <configuration name="ReaderWriterWithBeforeAndAfterTest" configurationId="JUnit" />
+    <history-entry file="AssertionHamcrestTest_tryAssertNotEquals - 2018.10.22 at 18h 37m 25s.xml">
+      <configuration name="AssertionHamcrestTest.tryAssertNotEquals" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReaderWriterWithBeforeAndAfterTest - 2018.10.18 at 11h 47m 20s.xml">
-      <configuration name="ReaderWriterWithBeforeAndAfterTest" configurationId="JUnit" />
+    <history-entry file="AssertionHamcrestTest_tryAssertEqualsWithObject - 2018.10.22 at 18h 56m 58s.xml">
+      <configuration name="AssertionHamcrestTest.tryAssertEqualsWithObject" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReaderWriterWithBeforeAndAfterTest - 2018.10.18 at 11h 47m 55s.xml">
-      <configuration name="ReaderWriterWithBeforeAndAfterTest" configurationId="JUnit" />
+    <history-entry file="AssertionHamcrestTest_tryAssertEqualsWithDouble - 2018.10.25 at 19h 40m 18s.xml">
+      <configuration name="AssertionHamcrestTest.tryAssertEqualsWithDouble" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReaderWriterTest - 2018.10.18 at 11h 48m 17s.xml">
-      <configuration name="ReaderWriterTest" configurationId="JUnit" />
+    <history-entry file="AssertionHamcrestTest_tryAssertSame - 2018.10.25 at 19h 42m 36s.xml">
+      <configuration name="AssertionHamcrestTest.tryAssertSame" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReaderWriterWithBeforeAndAfterTest - 2018.10.18 at 11h 49m 42s.xml">
-      <configuration name="ReaderWriterWithBeforeAndAfterTest" configurationId="JUnit" />
+    <history-entry file="AssertionHamcrestTest_tryAssertEqualsWithObject - 2018.10.25 at 19h 43m 00s.xml">
+      <configuration name="AssertionHamcrestTest.tryAssertEqualsWithObject" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AssertExceptionRuleTest - 2018.10.19 at 12h 36m 13s.xml">
-      <configuration name="AssertExceptionRuleTest" configurationId="JUnit" />
+    <history-entry file="AssertionHamcrestTest_tryAssertList - 2018.10.25 at 19h 49m 24s.xml">
+      <configuration name="AssertionHamcrestTest.tryAssertList" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AssertExceptionRuleTest_willThrowError - 2018.10.19 at 12h 36m 25s.xml">
-      <configuration name="AssertExceptionRuleTest.willThrowError" configurationId="JUnit" />
+    <history-entry file="AssertionHamcrestTest_tryAssertList - 2018.10.25 at 19h 49m 42s.xml">
+      <configuration name="AssertionHamcrestTest.tryAssertList" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AssertExceptionRuleTest_willThrowError - 2018.10.19 at 12h 36m 38s.xml">
-      <configuration name="AssertExceptionRuleTest.willThrowError" configurationId="JUnit" />
+    <history-entry file="AssertionHamcrestTest - 2018.10.25 at 19h 50m 43s.xml">
+      <configuration name="AssertionHamcrestTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AssertExceptionRuleTest_willThrowError - 2018.10.19 at 12h 36m 48s.xml">
-      <configuration name="AssertExceptionRuleTest.willThrowError" configurationId="JUnit" />
+    <history-entry file="AssertionHamcrestTest - 2018.10.25 at 19h 51m 40s.xml">
+      <configuration name="AssertionHamcrestTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36574000" />
+    <option name="totallyTimeSpent" value="42434000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18255034" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1852349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -472,7 +537,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33049646" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33049646" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -614,30 +679,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jUnit/assertionsExample/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="49" column="49" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/beforeAndAfter/ReaderWriterWithBeforeAndAfterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
           <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -671,30 +716,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/assertionsExample/RectangleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1649">
-          <caret line="105" column="61" selection-start-line="105" selection-start-column="61" selection-end-line="105" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/rule/AssertExceptionRuleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="238">
           <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/beforeAndAfter/ReaderWriterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -703,12 +728,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/beforeAndAfter/ReaderWriterTemFolderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+        <state relative-caret-position="170">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/beforeAndAfter/ReaderWriterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jUnit/assertionsExample/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="49" column="49" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/assertionsExample/RectangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="106" column="5" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/jUnit/assertionsExample/AssertionHamcrestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding>
+            <element signature="e#2076#2077#0" expanded="true" />
+            <element signature="e#2148#2149#0" expanded="true" />
           </folding>
         </state>
       </provider>
