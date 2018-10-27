@@ -1,4 +1,4 @@
-package exceptions;
+package jUnit.assertionsExample;
 
 import org.junit.Test;
 

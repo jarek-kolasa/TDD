@@ -1,4 +1,4 @@
-package jUnit.rule;
+package jUnit.assertionsExample;
 
 import org.junit.Rule;
 import org.junit.Test;
